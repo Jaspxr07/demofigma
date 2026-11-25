@@ -74,9 +74,9 @@ body:
     attributes:
       label: "🤝 Afspraken"
       options:
-        - label: "Dit issue staat op mijn project-bord. Ik zet het op 'In progress' zodra ik begin."
+        - label: "Dit issue staat op mijn project-bord. Ik zet het op \"In progress\" zodra ik begin."
           required: true
-        - label: "Elke commit voor dit issue bevat `Refs #nummer`."
+        - label: "Elke commit voor dit issue gebruikt een conventional commit en bevat `Refs #nummer`."
           required: true
-        - label: "Ik sluit dit issue met een commit die `Fixes #nummer` én mijn eigen reflectie bevat."
+        - label: "Ik sluit dit issue met een conventional commit die `Fixes #nummer` bevat en voeg daarna mijn eigen reflectie toe."
           required: true
