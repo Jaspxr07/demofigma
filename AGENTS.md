@@ -15,3 +15,4 @@ Please follow the guidelines below to ensure that your commit messages are clear
 Security Guidelines
 
 -Never commit secrets or sensitive information to the repository
+
