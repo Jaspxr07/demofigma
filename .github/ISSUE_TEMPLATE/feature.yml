@@ -1,7 +1,7 @@
 name: "🧩 Nieuwe taak / feature"
 description: "Iets nieuws bouwen. Vul dit volledig in VOOR je begint te coderen."
 title: "[Taak] "
-labels: ["taak"]
+labels: ["enhancement"]
 # Zet hier je eigen project-bord, dan komt elk issue er automatisch op:
 # projects: ["GEBRUIKERSNAAM/PROJECTNUMMER"]
 body:
